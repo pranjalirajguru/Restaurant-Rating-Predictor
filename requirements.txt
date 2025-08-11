@@ -1,8 +1,8 @@
-aiohttp==3.8.1
+aiohttp==3.8.4
 aiosignal==1.2.0
 alabaster==0.7.12
 altair==5.5.0
-anaconda-client==1.9.0
+anaconda-client==1.13.0
 anaconda-navigator==2.1.4
 anaconda-project==0.10.2
 anyio==3.5.0
@@ -339,3 +339,4 @@ yarl==1.6.3
 zict==2.0.0
 zipp==3.7.0
 zope.interface==5.4.0
+
