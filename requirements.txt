@@ -3,7 +3,6 @@ aiosignal==1.2.0
 alabaster==0.7.12
 altair==5.5.0
 anaconda-client==1.13.0
-anaconda-navigator==2.1.4
 anaconda-project==0.10.2
 anyio==3.5.0
 appdirs==1.4.4
@@ -47,14 +46,6 @@ clyent==1.2.2
 colorama==0.4.4
 colorcet==2.0.6
 comtypes==1.1.10
-conda==4.12.0
-conda-build==3.21.8
-conda-content-trust==0+unknown
-conda-pack==0.6.0
-conda-package-handling==1.8.1
-conda-repo-cli==1.0.4
-conda-token==0.3.0
-conda-verify==3.4.2
 constantly==15.1.0
 cookiecutter==1.7.3
 cryptography==3.4.8
@@ -161,7 +152,6 @@ multipledispatch==0.6.0
 munkres==1.1.4
 mypy-extensions==0.4.3
 narwhals==2.1.0
-navigator-updater==0.2.1
 nbclassic==0.3.5
 nbclient==0.5.13
 nbconvert==6.4.4
@@ -339,4 +329,5 @@ yarl==1.6.3
 zict==2.0.0
 zipp==3.7.0
 zope.interface==5.4.0
+
 
